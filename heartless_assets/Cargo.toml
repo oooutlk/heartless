@@ -1,0 +1,11 @@
+[package]
+name = "heartless_assets"
+version = "0.1.0"
+edition = "2021"
+authors = ["oooutlk <oooutlk@outlook.com>"]
+license = "MIT/Apache-2.0"
+keywords = ["hearts", "card", "game", "deck", "mshearts"]
+repository = "https://github.com/oooutlk/heartless"
+readme = "README.md"
+categories = ["games"]
+description = "assets of heartless game"

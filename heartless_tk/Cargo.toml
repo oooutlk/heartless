@@ -1,0 +1,19 @@
+[package]
+name = "heartless_tk"
+version = "0.1.0"
+edition = "2021"
+authors = ["oooutlk <oooutlk@outlook.com>"]
+license = "MIT/Apache-2.0"
+keywords = ["hearts", "card", "game", "keyboard", "mshearts"]
+readme = "README.md"
+repository = "https://github.com/oooutlk/heartless"
+categories = ["games"]
+description = "heartless_tk, a card game similar with mshearts"
+
+[dependencies]
+bind = "0.1.1"
+heartless = { version = "0.1", path = "../heartless", features = ["altio"] }
+heartless_assets = { version = "0.1", path = "../heartless_assets" }
+indexmap = "2.1.0"
+tcl = "0.1.9"
+tk = "0.1.10"

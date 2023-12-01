@@ -1,0 +1,45 @@
+Welcome to play heartless!
+
+To be the player with the lowest score at the end of the game. When one player
+hits 100 score or higher, the game ends; and the player with the lowest score
+wins.
+
+At the end of each hand, players count the number of hearts they have taken as
+well as the queen of spades, if applicable. Hearts count as one point each and
+the queen counts 13 points.
+
+When a player takes all 13 hearts and the queen of spades in one hand, instead
+of losing 26 points, that player scores zero and each of his opponents score an
+additional 26 points.
+
+The player holding the 2 of clubs after the pass makes the opening lead. Each
+player must follow suit if possible. If a player is void of the suit led, a card
+of any other suit may be discarded. However, if a player has no clubs when the
+first trick is led, a heart or the queen of spades cannot be discarded. The
+highest card of the suit led wins a trick and the winner of that trick leads
+next. Hearts may not be led until a heart has been discarded.
+
+
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+< :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: >
+< ::::::::::::            ::::::::::::            :::::::::::: >
+< :::::::::                   ::::                   ::::::::: >
+< :::::::         ********     ::     ********         ::::::: >
+< :::::      ****          ****  ****         ****       ::::: >
+< ::::     ****               ****               ****     :::: >
+< :::     ****                 **                 ****     ::: >
+< :::     ****                                    ****     ::: >
+< ::::     ****           YOU ARE THE            *****    :::: >
+< :::::     ****                                ****     ::::: >
+< :::::::     ****           WINNER!          ****     ::::::: >
+< :::::::::     ****                        ****     ::::::::: >
+< :::::::::::     ****                    ****     ::::::::::: >
+< ::::::::::::::      ****            ****      :::::::::::::: >
+< :::::::::::::::::       ****    ****       ::::::::::::::::: >
+< ::::::::::::::::::::        ****        :::::::::::::::::::: >
+< :::::::::::::::::::::::      **      ::::::::::::::::::::::: >
+< :::::::::::::::::::::::::          ::::::::::::::::::::::::: >
+< :::::::::::::::::::::::::::      ::::::::::::::::::::::::::: >
+< :::::::::::::::::::::::::::::  ::::::::::::::::::::::::::::: >
+< :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: >
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
